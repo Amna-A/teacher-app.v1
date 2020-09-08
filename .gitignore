@@ -1,0 +1,4 @@
+*.csv
+*.pyc
+doc.py
+testing.py
