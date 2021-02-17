@@ -1,4 +1,4 @@
-# teacher-app.v1
+# teacher-app.v1 [![HitCount](http://hits.dwyl.com/Amna-A/teacher-appv1.svg)](http://hits.dwyl.com/Amna-A/teacher-appv1)
 
 An OOP version for a teacher app (ongoing project)
 
